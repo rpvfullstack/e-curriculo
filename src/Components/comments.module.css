@@ -1,0 +1,11 @@
+.comments{
+    margin-top: 2rem;
+    gap: 1rem;
+    display: flex;
+}
+
+.comments img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 8px;
+}
